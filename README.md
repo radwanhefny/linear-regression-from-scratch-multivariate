@@ -36,25 +36,26 @@ jupyter notebook linear_regression_from_scratch_multivariate.ipynb
 
 ### 📉 Cost Function Plot  
 Shows how the cost decreases during gradient descent.  
-![Cost Function](https://raw.githubusercontent.com/radwanhefny/linear-regression-from-scratch-multivariate/main/pictures/cost%20function.png)
+<img src="https://raw.githubusercontent.com/radwanhefny/linear-regression-from-scratch-multivariate/main/pictures/cost%20function.png" width="500"/>
 
 ---
 
 ### 🔥 Correlation Heatmap  
 Visualizes the relationship between features and the target variable.  
-![Correlation Heatmap](https://raw.githubusercontent.com/radwanhefny/linear-regression-from-scratch-multivariate/main/pictures/correlation-heatmap.png)
+<img src="https://raw.githubusercontent.com/radwanhefny/linear-regression-from-scratch-multivariate/main/pictures/correlation-heatmap.png" width="500"/>
 
 ---
 
 ### 📊 Scatter Plot: Size vs Price  
 Shows how house size affects price.  
-![Size vs Price Scatter](https://raw.githubusercontent.com/radwanhefny/linear-regression-from-scratch-multivariate/main/pictures/size-price-scatter.png)
+<img src="https://raw.githubusercontent.com/radwanhefny/linear-regression-from-scratch-multivariate/main/pictures/size-price-scatter.png" width="500"/>
 
 ---
 
 ### 🛏️ Scatter Plot: Bedrooms vs Price  
 Shows the relationship between number of bedrooms and house price.  
-![Bedrooms vs Price Scatter](https://raw.githubusercontent.com/radwanhefny/linear-regression-from-scratch-multivariate/main/pictures/bedrooms-price-scatter.png)
+<img src="https://raw.githubusercontent.com/radwanhefny/linear-regression-from-scratch-multivariate/main/pictures/bedrooms-price-scatter.png" width="500"/>
+
 
 
 
