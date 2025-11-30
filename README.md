@@ -34,15 +34,29 @@ jupyter notebook linear_regression_from_scratch_multivariate.ipynb
 ```
 ## 🎬 Screenshots / Demo
 
-### 📉 Cost Function Plot
-(Shows how the model minimizes the error over iterations)
-![Prediction Figure](https://github.com/radwanhefny/linear-regression-from-scratch-univariate/blob/main/results/prediction.png)
-
+### 📉 Cost Function Plot  
+Shows how the cost decreases during gradient descent.  
+![Cost Function](https://raw.githubusercontent.com/radwanhefny/linear-regression-from-scratch-multivariate/main/pictures/cost%20function.png)
 
 ---
 
-### 📉 Error Plot
-![Error Figure](https://github.com/radwanhefny/linear-regression-from-scratch-univariate/blob/main/results/error.png)
+### 🔥 Correlation Heatmap  
+Visualizes the relationship between features and the target variable.  
+![Correlation Heatmap](https://raw.githubusercontent.com/radwanhefny/linear-regression-from-scratch-multivariate/main/pictures/correlation-heatmap.png)
+
+---
+
+### 📊 Scatter Plot: Size vs Price  
+Shows how house size affects price.  
+![Size vs Price Scatter](https://raw.githubusercontent.com/radwanhefny/linear-regression-from-scratch-multivariate/main/pictures/size-price-scatter.png)
+
+---
+
+### 🛏️ Scatter Plot: Bedrooms vs Price  
+Shows the relationship between number of bedrooms and house price.  
+![Bedrooms vs Price Scatter](https://raw.githubusercontent.com/radwanhefny/linear-regression-from-scratch-multivariate/main/pictures/bedrooms-price-scatter.png)
+
+
 
 
 ## 🗂️ Project Structure
